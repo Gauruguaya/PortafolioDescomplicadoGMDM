@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Descomplicando o GitHub
 site_url: 
 theme:
     name: material
@@ -63,9 +63,11 @@ theme:
             name: Switch to light mode
           accent: lime
 
-nav:
-    - Introduction:
-        - Welcome: index.md
+nav: 
+    - Introducción:
+        - Bienvenida: index.md
+        - ¿Qué es GitHub?: github.md
+        - Enlace a GitHub: enlace.md
 
 markdown_extensions:
     - md_in_html
@@ -81,5 +83,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/Gauruguaya/PortafolioDescomplicadoGMDM
+repo_name: DescomplicadoGMDM
